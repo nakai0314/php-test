@@ -1,6 +1,4 @@
 <?php
-
-echo '<p>Hello Nakai</p>';
-
-<php $name ='鈴木';
-echo $name;
+$place = "北海道";
+echo $place;
+?>

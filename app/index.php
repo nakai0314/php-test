@@ -1,5 +1,4 @@
 <?php
-
-echo '<p>Hello Nakai</p>';
-
+$name ='鈴木';
+echo $name;
 ?>
