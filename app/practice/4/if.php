@@ -1,5 +1,5 @@
 <?php
-$language = 1;
+$language = 4;
 
 if( $language === 1){
     echo 'こんにちは';
@@ -8,5 +8,5 @@ if( $language === 1){
 }elseif( $language === 3 ){
     echo 'Bonjour';
 }else{
-    echo '入力した値が違います、';
+    echo '入力した値が違います。';
 }
