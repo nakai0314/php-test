@@ -1,5 +1,6 @@
-<?PHP
-$name ="鈴木";
-$name ="佐藤";
+<?php
+
+$name = '鈴木';
+$name = '佐藤';
 
 echo $name;

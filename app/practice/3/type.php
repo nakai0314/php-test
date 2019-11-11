@@ -1,6 +1,6 @@
-<?PHP
+<?php
 
-$str ='こんにちは';
+$str = 'こんにちは';
 $int = 8;
 $bool = TRUE;
 $float = 3.2;
