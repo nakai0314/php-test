@@ -1,4 +1,4 @@
 <?php
 
-$num = 5;
-var_dump($num < 3);
+$nam = 5;
+var_dump($nam < 3);
