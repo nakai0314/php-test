@@ -5,6 +5,9 @@
     <select name="year">
     <?php
     $now = date("Y");
+    for($i = 1950; $i <= $now; $i++){ ?>
+    <option value="<?php echo $i;?>"><?php echo $i;?></option>
+    <?php }
     ?>
     </select>年
     <br>
